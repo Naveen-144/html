@@ -7,4 +7,13 @@ h1 {
     color:navy;
     text-align: left;
   }
+  #two{
+    color:purple;
+    text-align: left;
+  }
+  * {
+    font-family: Arial, sans-serif;
+  /* This applies to all elements */
+    
+  }
   
